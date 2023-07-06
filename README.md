@@ -1,4 +1,4 @@
-# Brave_Ads_QAP
+# Brave Ads x Quadratic Attention Payments Mechanism Proposal
 
 The Quadratic Attention Payments (QAP) mechanism aims to redefine digital advertising by empowering users to help determine the content they see and incentivize advertisers to create higher-quality, more relevant content.
 
